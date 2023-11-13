@@ -1,3 +1,6 @@
+// Hirchuk Vladyslav
+// Corporate sales [Files]
+
 #include <iostream>
 #include <fstream>
 #include <iomanip>
